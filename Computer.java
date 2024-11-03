@@ -143,7 +143,7 @@ public class Computer
    
 
     pos = modell.indexOf("-");  
-    kategorie = modell.substring(0, pos);
+    kategorie = modell.substring(0,pos);
 
     return kategorie;
 }
